@@ -1,4 +1,5 @@
 # Library Reservation System
+Group project on library reservation system
 
 # Synopsis 
 
